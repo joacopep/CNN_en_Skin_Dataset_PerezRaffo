@@ -4,7 +4,7 @@ Clasificación de imágenes dermatoscópicas de 9 clases con una CNN en PyTorch,
 
 ## Contenido
 
-- `CNN_en_Skin_Dataset_PerezRaffo.ipynb`: notebook ejecutado, con outputs y análisis.
+- `CNN_en_Skin_Dataset_PerezRaffo(1).ipynb`: notebook ejecutado, con outputs y análisis.
 - `requirements.txt`: dependencias.
 
 El dataset no está incluido en este repositorio.
