@@ -21,10 +21,10 @@ La primera celda descarga automáticamente la carpeta `data/Split_smol` desde el
 ### En una computadora local
 
 ```bash
-git clone <url-de-este-repo>
-cd <carpeta-del-repo>
+git clone https://github.com/joacopep/CNN_en_Skin_Dataset_PerezRaffo.git
+cd CNN_en_Skin_Dataset_PerezRaffo
 pip install -r requirements.txt
-jupyter notebook CNN_en_Skin_Dataset_PerezRaffo.ipynb
+jupyter notebook CNN_en_Skin_Dataset_PerezRaffo(1).ipynb
 ```
 
 Al ejecutar la primera celda, el notebook descarga el dataset con `git` (tiene que estar instalado).
